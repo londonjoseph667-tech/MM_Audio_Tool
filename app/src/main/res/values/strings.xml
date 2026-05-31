@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MM Audio Tool</string>
+    <string name="pick_ckb_file">Pick .ckb File</string>
+    <string name="extract">Extract</string>
+    <string name="replace">Replace</string>
+    <string name="save">Save</string>
+    <string name="next_repack">NEXT → Repack</string>
+    <string name="repacking">Repacking…</string>
+    <string name="repack_complete">Repack Complete!</string>
+    <string name="back_to_dashboard">Back to Dashboard</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="storage_location">Storage Location</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="external_storage">External Storage</string>
+</resources>
